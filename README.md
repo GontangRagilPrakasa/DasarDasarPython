@@ -1,5 +1,5 @@
 # Dasar Dasar Python
-1. Silahakan install Anaconda (python)
+1. Silahakan install Anaconda (https://www.python.org/downloads/)
 2. Kemudian download semua file
 3. Simpan dalam folder
 4. Buka Anaconda Prompt
